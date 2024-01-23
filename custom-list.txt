@@ -1,0 +1,6 @@
+# Title: Custom Blocklist for Pi-hole
+# Version: 23January2024v1
+# Description: This is a blocklist to block various contents.
+# Source: This list contains my own collections.
+
+r3.o.lencr.org
