@@ -3,4 +3,3 @@
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
-r3.o.lencr.org
