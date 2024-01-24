@@ -3,3 +3,6 @@
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
+onesignal.com # push notifications
+adocean.pl # Gemius related ad server
+quantcast.com # ads
