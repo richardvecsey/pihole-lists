@@ -6,7 +6,7 @@
 # Facebook
 0.0.0.0 a-graph.facebook.com
 0.0.0.0 graph.instagram.com
-0.0.0.0 mqtt-mini.facebook.com
+# 0.0.0.0 mqtt-mini.facebook.com # Disabled temporary: To login into Messenger maybe needs this address.
 
 # Crashlytics
 0.0.0.0 e.crashlytics.com
