@@ -6,3 +6,4 @@
 0.0.0.0 onesignal.com # push notifications
 0.0.0.0 adocean.pl # Gemius related ad server
 0.0.0.0 quantcast.com # ads
+0.0.0.0 cfusionsys.com # ads
