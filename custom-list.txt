@@ -8,3 +8,4 @@
 0.0.0.0 quantcast.com # ads
 0.0.0.0 cfusionsys.com # ads
 0.0.0.0 business.samsungusa.com # source: https://test.adminforge.de/adblock.html
+0.0.0.0 googleadservices.com # youtube ads
