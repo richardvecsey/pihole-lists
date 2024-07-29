@@ -9,3 +9,4 @@
 0.0.0.0 cfusionsys.com # ads
 0.0.0.0 business.samsungusa.com # source: https://test.adminforge.de/adblock.html
 0.0.0.0 googleadservices.com # youtube ads
+0.0.0.0 adssettings.google.com # webasite popup google ads
