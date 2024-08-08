@@ -13,5 +13,8 @@ api-partner.spotify.com
 ap.spotify.com
 api.spotify.com
 apresolve.spotify.com
+exp.wg.spotify.com
 gew1-spclient.spotify.com
+pixel.spotify.com
+pixel-static.spotify.com
 xpui.app.spotify.com
