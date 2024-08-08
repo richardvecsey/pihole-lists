@@ -13,8 +13,12 @@ api-partner.spotify.com
 ap.spotify.com
 api.spotify.com
 apresolve.spotify.com
+audio-akp-spotify-com.akamaized.net
+audio4-fa.scdn.co
+charts-images.scdn.co
 exp.wg.spotify.com
 gew1-spclient.spotify.com
+mosaic.scdn.co
 pixel.spotify.com
 pixel-static.spotify.com
 xpui.app.spotify.com
