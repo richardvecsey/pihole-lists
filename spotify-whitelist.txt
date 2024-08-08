@@ -10,6 +10,7 @@ open.spotify.com
 api-partner.spotify.com
 
 # Not from the original source:
+api.spotify.com
 apresolve.spotify.com
 gew1-spclient.spotify.com
 xpui.app.spotify.com
