@@ -11,3 +11,5 @@ api-partner.spotify.com
 
 # Not from the original source:
 apresolve.spotify.com
+gew1-spclient.spotify.com
+xpui.app.spotify.com
