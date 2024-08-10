@@ -11,3 +11,4 @@
 0.0.0.0 googleadservices.com # youtube ads
 0.0.0.0 adssettings.google.com # webasite popup google ads
 0.0.0.0 b-api.facebook.com # Facebook ads source: https://discourse.pi-hole.net/t/facebook-ads-gone/44405
+0.0.0.0 event.v3.miclub.hu # something AI-based marketing
