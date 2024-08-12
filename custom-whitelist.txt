@@ -3,9 +3,13 @@
 # Number of domains: 2
 # Description: This is a whitelist for Pi-hole.
 
-#DuckDNS
+# DuckDNS
 duckdns.org
 www.duckdns.org
+
+# Facebook
+rupload.facebook.com
+web.facebook.com
 
 # iPhone weather
 weather-analytics-events.apple.com
