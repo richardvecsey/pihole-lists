@@ -8,6 +8,7 @@ duckdns.org
 www.duckdns.org
 
 # Facebook
+graph.facebook.com
 rupload.facebook.com
 web.facebook.com
 
