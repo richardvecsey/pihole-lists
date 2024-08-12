@@ -8,8 +8,13 @@ duckdns.org
 www.duckdns.org
 
 # Facebook
+api.facebook.com
+edge-mqtt.facebook.com
 graph.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
 rupload.facebook.com
+star.c10r.facebook.com 
 web.facebook.com
 
 # iPhone weather
