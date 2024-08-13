@@ -99,6 +99,16 @@ dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 sls.update.microsoft.com
 
+# Whatsapp
+g.whatsapp.net
+faq.whatsapp.com
+media-mxp1-1.cdn.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+scontent.whatsapp.net
+static.whatsapp.net
+web.whatsapp.com
+www.whatsapp.com
+
 ################
 # Misc
 sfdataservice.microsoft.com 
