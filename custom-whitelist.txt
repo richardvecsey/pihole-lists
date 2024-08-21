@@ -3,6 +3,8 @@
 # Number of domains: 2
 # Description: This is a whitelist for Pi-hole.
 
+learn.cisecurity.org
+
 # Apple # source: https://support.apple.com/en-us/101555
 albert.apple.com
 amazonaws.com
