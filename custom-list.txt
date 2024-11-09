@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 09November2024v1
+# Version: 09November2024v2
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -13,3 +13,4 @@
 0.0.0.0 b-api.facebook.com # Facebook ads source: https://discourse.pi-hole.net/t/facebook-ads-gone/44405
 0.0.0.0 event.v3.miclub.hu # something AI-based marketing
 0.0.0.0 html-load.com # AD
+0.0.0.0 content-loader.com # AD
