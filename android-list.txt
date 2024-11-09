@@ -1,10 +1,10 @@
 # Title: Android Blocklist for Pi-hole
-# Version: 23January2024v1
+# Version: 09November2024v1
 # Description: This is a blocklist to block ads, analytics, social and error trackers on Android.
 # Source: https://github.com/Perflyst/PiHoleBlocklist/blob/master/android-tracking.txt
 
 # Facebook
-0.0.0.0 a-graph.facebook.com
+# 0.0.0.0 a-graph.facebook.com # Disabled temporary: To solve Messenger network error.
 0.0.0.0 graph.instagram.com
 # 0.0.0.0 mqtt-mini.facebook.com # Disabled temporary: To login into Messenger maybe needs this address.
 
