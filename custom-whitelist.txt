@@ -131,6 +131,9 @@ static.whatsapp.net
 web.whatsapp.com
 www.whatsapp.com
 
+# Eventbrite
+clicks.eventbrite.com
+
 ################
 # Misc
 sfdataservice.microsoft.com
