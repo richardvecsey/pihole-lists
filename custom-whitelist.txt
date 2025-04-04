@@ -1,6 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2024-08-08 (GMT)
-# Number of domains: 2
+# Version: 2025-04-04 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 learn.cisecurity.org
@@ -133,6 +132,35 @@ www.whatsapp.com
 
 # Eventbrite
 clicks.eventbrite.com
+
+################
+# source: https://github.com/hagezi/dns-blocklists/blob/main/share/facebook.txt
+# Facebook/Messenger App Android/iOS (Comments, Messages)
+# Instagram App story videos
+b-graph-fallback.facebook.com
+b-graph.facebook.com
+graph-fallback.facebook.com
+graph.fbpigeon.com
+z-m-graph.facebook.com
+
+# Facebook lite app (messages/notifications), Instagram application settings (slow loading)
+# Facebook/Messenger App Android/iOS (Avatars)
+web.facebook.com
+web-fallback.facebook.com
+
+# Other Facebook functions, unblocking may not be needed
+connect.facebook.com
+connect.facebook.net
+mqtt-mini.facebook.com
+
+# Unblock if you use Whatsapp avatar creator, helpcenter or video effects
+graph.whatsapp.com
+graph.whatsapp.net
+
+
+################
+
+
 
 ################
 # Misc
