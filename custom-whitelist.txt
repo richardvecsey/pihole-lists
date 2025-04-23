@@ -70,6 +70,7 @@ tracking.epicgames.com
 
 # Facebook
 api.facebook.com
+fbcdn.net
 cdn.fbsbx.com
 edge-mqtt.facebook.com
 graph.facebook.com
