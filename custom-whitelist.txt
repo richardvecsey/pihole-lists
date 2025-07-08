@@ -135,8 +135,6 @@ www.whatsapp.com
 clicks.eventbrite.com
 
 
-# LinkedIn
-platform.linkedin.com
 
 ################
 # source: https://github.com/hagezi/dns-blocklists/blob/main/share/facebook.txt
