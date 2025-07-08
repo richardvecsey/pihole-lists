@@ -1,5 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2025-04-04 (GMT)
+# Version: 2025-07-08 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 learn.cisecurity.org
@@ -133,6 +133,10 @@ www.whatsapp.com
 
 # Eventbrite
 clicks.eventbrite.com
+
+
+# LinkedIn
+platform.linkedin.com
 
 ################
 # source: https://github.com/hagezi/dns-blocklists/blob/main/share/facebook.txt
