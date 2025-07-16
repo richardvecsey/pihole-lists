@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 22April2025v4
+# Version: 16July2025v4
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -23,6 +23,10 @@
 0.0.0.0 news-xrunobu.cc
 0.0.0.0 news-xrizopa.cc
 0.0.0.0 prizehat.com
+
+0.0.0.0 netadclick.com
+0.0.0.0 adclick.netadclick.com
+
 
 #0.0.0.0 html-load.com # AD
 #0.0.0.0 content-loader.com # AD
