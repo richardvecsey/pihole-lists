@@ -16,6 +16,11 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 doubleclick.net
 
+0.0.0.0 netadclick.com
+0.0.0.0 adclick.netadclick.com
+0.0.0.0 mediago.io
+0.0.0.0 trace-eu.mediago.io
+
 0.0.0.0 odejdi.info
 0.0.0.0 tyblk.info
 0.0.0.0 zakolata.info
@@ -23,10 +28,6 @@
 0.0.0.0 news-xrunobu.cc
 0.0.0.0 news-xrizopa.cc
 0.0.0.0 prizehat.com
-
-0.0.0.0 netadclick.com
-0.0.0.0 adclick.netadclick.com
-
 
 #0.0.0.0 html-load.com # AD
 #0.0.0.0 content-loader.com # AD
