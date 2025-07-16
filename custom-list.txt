@@ -19,6 +19,7 @@
 0.0.0.0 netadclick.com
 0.0.0.0 adclick.netadclick.com
 0.0.0.0 mediago.io
+0.0.0.0 cdn.mediago.io
 0.0.0.0 trace-eu.mediago.io
 
 0.0.0.0 odejdi.info
