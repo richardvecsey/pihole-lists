@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 22Sept2025v5
+# Version: 08Oct2025v6
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -14,6 +14,8 @@
 0.0.0.0 event.v3.miclub.hu # something AI-based marketing
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
 
 0.0.0.0 netadclick.com
 0.0.0.0 adclick.netadclick.com
@@ -32,6 +34,16 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 t.myvisualiq.net
+
+0.0.0.0 leanplum.com
+0.0.0.0 api.leanplum.com
+
+0.0.0.0 rt.applovin.com
+0.0.0.0 d.applvn.com
+0.0.0.0 a.applvn.com
+0.0.0.0 applvn.com
+
+0.0.0.0 servicesupport.hicloud.com
 
 #0.0.0.0 html-load.com # AD
 #0.0.0.0 content-loader.com # AD
