@@ -28,6 +28,7 @@
 0.0.0.0 api.amplitude.com
 
 0.0.0.0 ingest.sentry.io
+0.0.0.0 sentry.io
 
 0.0.0.0 app.adjust.com
 0.0.0.0 gdpr.adjust.com
@@ -115,3 +116,18 @@
 
 0.0.0.0 localytics.com
 0.0.0.0 api.localytics.com
+
+0.0.0.0 mpstat.us
+
+0.0.0.0 r.raygun.io
+0.0.0.0 api.raygun.io
+
+0.0.0.0 api.iterable.com
+0.0.0.0 track.customer.io
+0.0.0.0 api.chartboost.com
+0.0.0.0 s.inmobi.com
+0.0.0.0 data.vungle.com
+0.0.0.0 api.hasoffers.com
+
+0.0.0.0 events.mapbox.com
+0.0.0.0 api.mapbox.com
