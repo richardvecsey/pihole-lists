@@ -20,6 +20,7 @@
 0.0.0.0 data.flurry.com
 0.0.0.0 cdn.flurry.com
 0.0.0.0 pro-mc.flurry.com
+0.0.0.0 adlog.flurry.com
 
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
@@ -35,6 +36,9 @@
 
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 t.appsflyer.com
 
 0.0.0.0 api2.branch.io
 0.0.0.0 cdn.branch.io
@@ -133,3 +137,8 @@
 
 0.0.0.0 events.mapbox.com
 0.0.0.0 api.mapbox.com
+
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
