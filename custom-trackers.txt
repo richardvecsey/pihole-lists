@@ -108,6 +108,8 @@
 0.0.0.0 api.onesignal.com
 
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 settings.crashlytics.com
 
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.com
