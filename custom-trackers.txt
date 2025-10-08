@@ -1,0 +1,116 @@
+# Title: Custom Blocklist for Pi-hole
+# Version: 08Oct2025v1
+# Description: This is a blocklist to block various contents.
+# Source: This list contains my own collections.
+
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 crashlytics.l.google.com
+0.0.0.0 app-measurement.com
+
+0.0.0.0 mobileagent.dynatrace.com
+0.0.0.0 live.dynatrace.com
+
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 crash-api.newrelic.com
+
+0.0.0.0 saas.appdynamics.com
+0.0.0.0 mobile.appdynamics.com
+
+0.0.0.0 data.flurry.com
+0.0.0.0 cdn.flurry.com
+0.0.0.0 pro-mc.flurry.com
+
+0.0.0.0 api.mixpanel.com
+0.0.0.0 decide.mixpanel.com
+
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.amplitude.com
+
+0.0.0.0 ingest.sentry.io
+
+0.0.0.0 app.adjust.com
+0.0.0.0 gdpr.adjust.com
+
+0.0.0.0 api2.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+
+0.0.0.0 events.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 static.hotjar.com
+
+0.0.0.0 api.fullstory.com
+0.0.0.0 rs.fullstory.com
+
+0.0.0.0 api.logrocket.com
+0.0.0.0 r.logrocket.com
+
+0.0.0.0 api.count.ly
+
+0.0.0.0 data.adobedc.net
+0.0.0.0 assets.adobedtm.com
+
+0.0.0.0 control.kochava.com
+0.0.0.0 api.kochava.com
+
+0.0.0.0 api.leanplum.com
+
+0.0.0.0 appboy.com
+0.0.0.0 api.appboy.com
+
+0.0.0.0 api.singular.net
+0.0.0.0 events.singular.net
+
+0.0.0.0 analytics.localytics.com
+0.0.0.0 api.localytics.com
+
+0.0.0.0 mparticle.com
+0.0.0.0 api.mparticle.com
+
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 collect.tealiumiq.com
+
+0.0.0.0 snowplowanalytics.com
+
+0.0.0.0 heapanalytics.com
+0.0.0.0 api.heapanalytics.com
+
+0.0.0.0 api.instabug.com
+0.0.0.0 dashboard.instabug.com
+
+0.0.0.0 app.testfairy.com
+0.0.0.0 api.testfairy.com
+
+0.0.0.0 go.urbanairship.com
+0.0.0.0 api.urbanairship.com
+
+0.0.0.0 api.pushwoosh.com 
+0.0.0.0 cp.pushwoosh.com
+
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 imrworldwide.com
+
+0.0.0.0 api.amplitude.com
+
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.com
+
+0.0.0.0 api.onesignal.com
+
+0.0.0.0 reports.crashlytics.com
+
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
+
+0.0.0.0 api.moengage.com
+
+0.0.0.0 localytics.com
+0.0.0.0 api.localytics.com
