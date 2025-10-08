@@ -9,6 +9,7 @@
 
 0.0.0.0 mobileagent.dynatrace.com
 0.0.0.0 live.dynatrace.com
+0.0.0.0 dynatrace.com
 
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 crash-api.newrelic.com
