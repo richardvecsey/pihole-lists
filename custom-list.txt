@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 08Oct2025v6
+# Version: 10Feb2026v7
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -16,6 +16,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 services.leadconnectorhq.com
 
 0.0.0.0 netadclick.com
 0.0.0.0 adclick.netadclick.com
