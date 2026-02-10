@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 10Feb2026v7
+# Version: 10Feb2026v8
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -8,15 +8,49 @@
 0.0.0.0 quantcast.com # ads
 0.0.0.0 cfusionsys.com # ads
 0.0.0.0 business.samsungusa.com # source: https://test.adminforge.de/adblock.html
-0.0.0.0 googleadservices.com # youtube ads
-0.0.0.0 adssettings.google.com # webasite popup google ads
 0.0.0.0 b-api.facebook.com # Facebook ads source: https://discourse.pi-hole.net/t/facebook-ads-gone/44405
 0.0.0.0 event.v3.miclub.hu # something AI-based marketing
+0.0.0.0 services.leadconnectorhq.com
+
+# Doubleclick
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+
+# Google
+0.0.0.0 googleadservices.com # youtube ads
+0.0.0.0 adssettings.google.com # webasite popup google ads
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 services.leadconnectorhq.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 clients6.google.com
+0.0.0.0 waa-pa.clients6.google.com
+0.0.0.0 moltron-pa.clients6.google.com
+0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 spot-pa.googleapis.com
+0.0.0.0 discover-pa.googleapis.com
+0.0.0.0 playstoregatewayadapter-pa.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+
+0.0.0.0 whatfix.com
+0.0.0.0 utils.global-e.com
+0.0.0.0 display.powerreviews.com
+0.0.0.0 ui.powerreviews.com
+0.0.0.0 qoe-1.yottaa.net
+0.0.0.0 cmp.osano.com
+0.0.0.0 consent.api.osano.com
+
+# Cloudfront
+0.0.0.0 d2bytcopxu066p.cloudfront.net
+0.0.0.0 dqpnq362acqdi.cloudfront.net
+0.0.0.0 de4ertp2vqlc5.cloudfront.net
+0.0.0.0 d2tzf0x91zo2h0.cloudfront.net
+0.0.0.0 dsafe840ogevj.cloudfront.net
+0.0.0.0 d1kjqklgpia5go.cloudfront.net
+0.0.0.0 djtdt850vfjt4.cloudfront.net
+0.0.0.0 d13mp8tcwrms99.cloudfront.net
+0.0.0.0 d22ohr3ltkx6p.cloudfront.net
 
 0.0.0.0 netadclick.com
 0.0.0.0 adclick.netadclick.com
@@ -32,10 +66,7 @@
 0.0.0.0 news-xrizopa.cc
 0.0.0.0 prizehat.com
 
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 t.myvisualiq.net
-
 0.0.0.0 leanplum.com
 0.0.0.0 api.leanplum.com
 
