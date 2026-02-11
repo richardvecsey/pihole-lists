@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 10Feb2026v8
+# Version: 11Feb2026v9
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -42,15 +42,15 @@
 0.0.0.0 consent.api.osano.com
 
 # Cloudfront
-0.0.0.0 d2bytcopxu066p.cloudfront.net
-0.0.0.0 dqpnq362acqdi.cloudfront.net
-0.0.0.0 de4ertp2vqlc5.cloudfront.net
-0.0.0.0 d2tzf0x91zo2h0.cloudfront.net
-0.0.0.0 dsafe840ogevj.cloudfront.net
-0.0.0.0 d1kjqklgpia5go.cloudfront.net
-0.0.0.0 djtdt850vfjt4.cloudfront.net
-0.0.0.0 d13mp8tcwrms99.cloudfront.net
-0.0.0.0 d22ohr3ltkx6p.cloudfront.net
+# 0.0.0.0 d2bytcopxu066p.cloudfront.net
+# 0.0.0.0 dqpnq362acqdi.cloudfront.net
+# 0.0.0.0 de4ertp2vqlc5.cloudfront.net
+# 0.0.0.0 d2tzf0x91zo2h0.cloudfront.net
+# 0.0.0.0 dsafe840ogevj.cloudfront.net
+# 0.0.0.0 d1kjqklgpia5go.cloudfront.net
+# 0.0.0.0 djtdt850vfjt4.cloudfront.net
+# 0.0.0.0 d13mp8tcwrms99.cloudfront.net
+# 0.0.0.0 d22ohr3ltkx6p.cloudfront.net
 
 0.0.0.0 netadclick.com
 0.0.0.0 adclick.netadclick.com
