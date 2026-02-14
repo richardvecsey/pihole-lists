@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 11Feb2026v9
+# Version: 14Feb2026v10
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -24,7 +24,7 @@
 0.0.0.0 adssettings.google.com # webasite popup google ads
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 optimizationguide-pa.googleapis.com
-0.0.0.0 clients6.google.com
+# 0.0.0.0 clients6.google.com # necessary for google drive
 0.0.0.0 waa-pa.clients6.google.com
 0.0.0.0 moltron-pa.clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
