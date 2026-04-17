@@ -1,10 +1,9 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 13Apr2026v12
+# Version: 17Apr2026v13
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
 0.0.0.0 onesignal.com # push notifications
-0.0.0.0 adocean.pl # Gemius related ad server
 0.0.0.0 quantcast.com # ads
 0.0.0.0 cfusionsys.com # ads
 0.0.0.0 business.samsungusa.com # source: https://test.adminforge.de/adblock.html
@@ -12,6 +11,26 @@
 0.0.0.0 event.v3.miclub.hu # something AI-based marketing
 0.0.0.0 services.leadconnectorhq.com
 0.0.0.0 ad.adverticum.net # ads
+0.0.0.0 adocean.pl # Gemius related ad server
+0.0.0.0 cmhu.adocean.pl
+0.0.0.0 spl.hit.gemius.pl
+0.0.0.0 stat.p24.hu
+0.0.0.0 bt.p24.hu
+0.0.0.0 segment.p24.hu
+0.0.0.0 ad-blacklist.p24.hu
+0.0.0.0 stat.24.hu
+0.0.0.0 a.nel.cloudflare.com
+0.0.0.0 anon-stats.eff.org
+0.0.0.0 helios-i.mashable.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 static.criteo.net
+
+# Fastly
+0.0.0.0 mozilla.map.fastly.net
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 eff.map.fastly.net
+0.0.0.0 y2.shared.global.fastly.net
+0.0.0.0 c3.shared.global.fastly.net
 
 # Doubleclick
 0.0.0.0 ad.doubleclick.net
@@ -33,6 +52,8 @@
 0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 pagead2.googlesyndication.com
+
 
 0.0.0.0 whatfix.com
 0.0.0.0 utils.global-e.com
