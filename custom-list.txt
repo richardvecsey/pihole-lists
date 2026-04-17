@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 17Apr2026v13
+# Version: 17Apr2026v14
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -19,14 +19,19 @@
 0.0.0.0 segment.p24.hu
 0.0.0.0 ad-blacklist.p24.hu
 0.0.0.0 stat.24.hu
+0.0.0.0 cts.24.hu
+0.0.0.0 s.24.hu
 0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 helios-i.mashable.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 static.criteo.net
+0.0.0.0 go-updater.brave.com
+0.0.0.0 brave-core-ext.s3.brave.com
 
 # Fastly
 0.0.0.0 mozilla.map.fastly.net
+0.0.0.0 dualstack.reddit.map.fastly.net
 0.0.0.0 reddit.map.fastly.net
 0.0.0.0 eff.map.fastly.net
 0.0.0.0 y2.shared.global.fastly.net
