@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 17Apr2026v14
+# Version: 19Apr2026v15
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -31,8 +31,8 @@
 
 # Fastly
 0.0.0.0 mozilla.map.fastly.net
-0.0.0.0 dualstack.reddit.map.fastly.net
-0.0.0.0 reddit.map.fastly.net
+# 0.0.0.0 dualstack.reddit.map.fastly.net
+# 0.0.0.0 reddit.map.fastly.net
 0.0.0.0 eff.map.fastly.net
 0.0.0.0 y2.shared.global.fastly.net
 0.0.0.0 c3.shared.global.fastly.net
