@@ -186,3 +186,4 @@ skype-prod.lync.com
 login.microsoftonline.com
 teams.microsoft.com
 presence.teams.microsoft.com
+events.data.microsoft.com
