@@ -168,6 +168,9 @@ graph.whatsapp.net
 digicert.com
 globalsign.com
 usertrust.com
+ocsp.digicert.com
+ocsp.globalsign.com
+crl3.digicert.com
 paloaltonetworks.com
 gpcloudservice.com
 globalprotect.paloaltonetworks.com
@@ -187,3 +190,4 @@ login.microsoftonline.com
 teams.microsoft.com
 presence.teams.microsoft.com
 events.data.microsoft.com
+self.events.data.microsoft.com
