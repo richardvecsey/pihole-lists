@@ -176,3 +176,13 @@ okta-emea.com
 okta.eu
 oktacdn.com
 oktapreview.com
+login.microsoftonline.com
+aadcdn.msauth.net
+aadcdn.msftauth.net
+secure.aadcdn.microsoftonline-p.com
+presence.teams.microsoft.com
+presence.lync.com
+skype-prod.lync.com
+login.microsoftonline.com
+teams.microsoft.com
+presence.teams.microsoft.com
