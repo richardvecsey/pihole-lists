@@ -1,5 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2025-11-04 (GMT)
+# Version: 2026-05-27 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 learn.cisecurity.org
@@ -164,3 +164,15 @@ graph.whatsapp.com
 graph.whatsapp.net
 ################
 
+# For any secure company environment
+digicert.com
+globalsign.com
+usertrust.com
+paloaltonetworks.com
+gpcloudservice.com
+globalprotect.paloaltonetworks.com
+okta.com
+okta-emea.com
+okta.eu
+oktacdn.com
+oktapreview.com
