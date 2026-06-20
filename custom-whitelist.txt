@@ -139,6 +139,7 @@ daily-mix.scdn.co
 spot-pa.googleapis.com
 spotify.com
 scdn.co
+spotifycdn.com
 
 
 # Eventbrite
