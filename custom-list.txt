@@ -1,5 +1,5 @@
 # Title: Custom Blocklist for Pi-hole
-# Version: 20Jun2026v16
+# Version: 20Jun2026v17
 # Description: This is a blocklist to block various contents.
 # Source: This list contains my own collections.
 
@@ -54,7 +54,7 @@
 0.0.0.0 moltron-pa.clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
 # 0.0.0.0 spot-pa.googleapis.com # Spotify
-0.0.0.0 discover-pa.googleapis.com
+# 0.0.0.0 discover-pa.googleapis.com # Spotify
 0.0.0.0 playstoregatewayadapter-pa.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 pagead2.googlesyndication.com
