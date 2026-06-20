@@ -1,5 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2026-05-27 (GMT)
+# Version: 2026-06-20 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 learn.cisecurity.org
@@ -131,6 +131,14 @@ scontent.whatsapp.net
 static.whatsapp.net
 web.whatsapp.com
 www.whatsapp.com
+
+# Spotify
+tv.scdn.co
+pl.scdn.co
+daily-mix.scdn.co
+spot-pa.googleapis.com
+spotify.com
+
 
 # Eventbrite
 clicks.eventbrite.com
