@@ -124,7 +124,7 @@ sls.update.microsoft.com
 
 # Google
 people-pa.googleapis.com
-
+clienttracing-pa.googleapis.com
 
 # Whatsapp
 g.whatsapp.net
