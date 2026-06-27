@@ -130,6 +130,8 @@ fp.msedge.net
 # Google
 people-pa.googleapis.com
 clienttracing-pa.googleapis.com
+firebaseinstallations.googleapis.com
+playstoregatewayadapter-pa.googleapis.com
 
 # Whatsapp
 g.whatsapp.net
