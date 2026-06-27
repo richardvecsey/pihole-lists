@@ -111,6 +111,8 @@ weatherkit.apple.com
 gld.push.samsungosp.com
 hu-odc.samsungapps.com
 vas.samsungapps.com
+lcprd1.samsungcloudsolution.net
+gpm.samsungqbe.com
 
 # Viber
 s-bid.rmp.rakuten.com
@@ -121,6 +123,9 @@ displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 sls.update.microsoft.com
+mobile.pipe.aria.microsoft.com
+arc.msn.com
+fp.msedge.net
 
 # Google
 people-pa.googleapis.com
