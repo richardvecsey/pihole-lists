@@ -1,5 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2026-06-20 (GMT)
+# Version: 2026-06-27 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 learn.cisecurity.org
@@ -121,6 +121,10 @@ displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 sls.update.microsoft.com
+
+# Google
+people-pa.googleapis.com
+
 
 # Whatsapp
 g.whatsapp.net
