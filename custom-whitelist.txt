@@ -1,6 +1,8 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2026-06-27 (GMT)
+# Version: 2026-07-27 (GMT)
 # Description: This is a whitelist for Pi-hole.
+
+atw.hu # Hungarian Network Operator
 
 learn.cisecurity.org
 forms.ontraport.com
