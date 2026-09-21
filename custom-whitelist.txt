@@ -1,5 +1,5 @@
 # Title: Custom Whitelist for Pi-hole
-# Version: 2026-07-27 (GMT)
+# Version: 2026-09-22 (GMT)
 # Description: This is a whitelist for Pi-hole.
 
 atw.hu # Hungarian Network Operator
@@ -115,6 +115,14 @@ hu-odc.samsungapps.com
 vas.samsungapps.com
 lcprd1.samsungcloudsolution.net
 gpm.samsungqbe.com
+
+# Samsung
+scs.samsungqbe.com
+sastv.samsungqbe.com
+osb-v2.samsungqbe.com
+_xmpp-client._tcp.scs.samsungqbe.com
+dc.dqa.samsung.com
+sia.internet.apps.samsung.com
 
 # Viber
 s-bid.rmp.rakuten.com
